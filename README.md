@@ -28,8 +28,8 @@ You can download, build, and run the programs with the following commands:
 
 > 1.2 Command-Line Arguments
 
-- [echo11.go](https://github.com/aaron-imbrock/gobook/blob/master/ch1/echo11/echo11.go)
-- [echo12.go](https://github.com/aaron-imbrock/gobook/blob/master/ch1/echo12/echo12.go)
+- [Exercise 1.1](https://github.com/aaron-imbrock/gobook/blob/master/ch1/echo11/echo11.go)
+- [Exercise 1.2](https://github.com/aaron-imbrock/gobook/blob/master/ch1/echo12/echo12.go)
 
 ## Change Log
 
