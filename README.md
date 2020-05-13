@@ -1,22 +1,39 @@
+<img src="./icons/cover.png" alt="The Go Programming Language by Alan Donovan" width="30%" align="right">
+
 # The Go Programming Language
 
-This repo was forked from adonovan/gopl.io. Included now are my implementations of the end of chapter exercises found in the book.
+> By Alan Donovan
 
-This repository provides the downloadable example programs
-for the book, "The Go Programming Language"; see http://www.gopl.io.
+- [Book's Website](http://www.gopl.io/)
+- [Book's example code](https://github.com/adonovan/gopl.io/)
 
-These example programs are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br/>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"/></a>
+This is the personal end of chapter exercises repo for Aaron Imbrock implemented in Go 1.14.
+
+This repo was forked from [adonovan/gopl.io](https://github.com/adonovan/gopl.io/). Added to it are my personal implementations of the end of chapter exercises found in the book. There's no affilition of my work to that of the author.
 
 You can download, build, and run the programs with the following commands:
 
- $ export GOPATH=$HOME/gobook            # choose workspace directory
- $ go get gopl.io/ch1/helloworld         # fetch, build, install
- $ $GOPATH/bin/helloworld                # run
- Hello, 世界
+    $ export GOPATH=$HOME/gobook            # choose workspace directory
+    $ go get gopl.io/ch1/helloworld         # fetch, build, install
+    $ $GOPATH/bin/helloworld                # run
+    Hello, Aaron
 
-Many of the programs contain comments of the form `//!+` and `//!-`.
-These comments bracket the parts of the programs that are excerpted in the
-book; you can safely ignore them.  In a few cases, programs
-have been reformatted in an unnatural way so that they can be presented
-in stages in the book.
+## Requirements
+
+- Go 1.14
+
+- The Go Programming Language, by Alan Donovan
+
+## Chapter 1 - Tutorial
+
+> 1.2 Command-Line Arguments
+
+- [Exercise 1.1](https://github.com/aaron-imbrock/gobook/blob/master/ch1/echo11/echo11.go)
+- [Exercise 1.2](https://github.com/aaron-imbrock/gobook/blob/master/ch1/echo12/echo12.go)
+
+## Change Log
+
+> 05/13/2020
+- Ch1.2 Completed
+- Set up repo
+- Drafted README
