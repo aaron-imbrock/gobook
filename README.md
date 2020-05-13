@@ -1,6 +1,6 @@
 # The Go Programming Language
 
-This repo was forked from adonovan/gopl.io. Included now are my implementations of end of chapter exercises.
+This repo was forked from adonovan/gopl.io. Included now are my implementations of the end of chapter exercises found in the book.
 
 This repository provides the downloadable example programs
 for the book, "The Go Programming Language"; see http://www.gopl.io.
