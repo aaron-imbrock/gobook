@@ -4,8 +4,8 @@
 
 > By Alan Donovan
 
-- [Books Website](http://www.gopl.io/)
-- [Book example code](https://github.com/adonovan/gopl.io/)
+- [Book's Website](http://www.gopl.io/)
+- [Book's example code](https://github.com/adonovan/gopl.io/)
 
 This is the personal end of chapter exercises repo for Aaron Imbrock implemented in Go 1.14.
 
