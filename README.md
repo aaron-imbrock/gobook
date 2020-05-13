@@ -1,4 +1,4 @@
-<img src="./icons/cover.png" alt="The Go Programming Language by Alan Donovan" width="20%" align="right">
+<img src="./icons/cover.png" alt="The Go Programming Language by Alan Donovan" width="30%" align="right">
 
 # The Go Programming Language
 
@@ -34,5 +34,6 @@ You can download, build, and run the programs with the following commands:
 ## Change Log
 
 > 05/13/2020
->> Ch1.2 Completed
->> Set up repo, drafted README
+- Ch1.2 Completed
+- Set up repo
+- Drafted README
