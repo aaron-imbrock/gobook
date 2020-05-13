@@ -35,4 +35,5 @@ You can download, build, and run the programs with the following commands:
 
 > 05/13/2020
 >> Ch1.2 Completed
+
 >> Set up repo, drafted README
