@@ -7,8 +7,8 @@
 
 # Extensionless executables
 *
-!*.*
-!*/
+# !*.*
+# !*/
 
 # Test binary, built with `go test -c`
 *.test
@@ -24,11 +24,6 @@
 *.dll
 *.so
 *.dylib
-
-# Extensionless executables
-*
-!*.*
-!*/
 
 # Test binary, built with `go test -c`
 *.test
