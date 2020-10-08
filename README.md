@@ -7,7 +7,7 @@
 - [Book's Website](http://www.gopl.io/)
 - [Book's example code](https://github.com/adonovan/gopl.io/)
 
-This is the personal end of chapter exercises repo for Aaron Imbrock implemented in Go 1.14.
+This is the personal repo for end-of-chapter exercises of Aaron Imbrock, implemented in Go 1.14.
 
 This repo was forked from [adonovan/gopl.io](https://github.com/adonovan/gopl.io/). Added to it are my personal implementations of the end of chapter exercises found in the book. There's no affilition of my work to that of the author.
 
